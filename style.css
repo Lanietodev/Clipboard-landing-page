@@ -288,6 +288,9 @@ a>li{
   .socials{
     margin-top: -.5rem;
   }
+  li{
+    margin-bottom: .5rem;
+  }
   ul .a2{
     grid-area: 2/1/3/2;
   }
